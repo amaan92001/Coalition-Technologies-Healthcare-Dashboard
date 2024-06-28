@@ -6,19 +6,19 @@ This zip file contains my skills test submission for the front-end position at C
 
 ## Tools Used
 
- **HTML**: Used for structuring the web page.
- **CSS**: Styled the components to match the PSD design.
- **JavaScript**: Implemented functionality, used to make web page more interactive
- **Adobe Photoshop**: Referenced for design elements and dimensions.
- **Postman**: Used for testing API calls and ensuring data integration.
+- **HTML**: Used for structuring the web page.
+- **CSS**: Styled the components to match the PSD design.
+- **JavaScript**: Implemented functionality, used to make web page more interactive
+- **Adobe Photoshop**: Referenced for design elements and dimensions.
+- **Postman**: Used for testing API calls and ensuring data integration.
 
 
 ## Files Included
 
- **index.html**: Main HTML file containing the dashboard structure.
- **styles.css**: CSS file for styling the dashboard components.
- **script.js**: JavaScript file for implementing interactive elements.
- **assets/**: Directory containing images and other static resources used in the dashboard.
+- **index.html**: Main HTML file containing the dashboard structure.
+- **styles.css**: CSS file for styling the dashboard components.
+- **script.js**: JavaScript file for implementing interactive elements.
+- **assets/**: Directory containing images and other static resources used in the dashboard.
 
 
 ## Instructions for run the project
